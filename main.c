@@ -6,7 +6,7 @@
 #include<pthread.h>
 #include<unistd.h>
 #include <sched.h>
-#include"hw6.h"
+#include"elevator.h"
 
 // when stop == 1, all threads quit voluntarily
 static int stop=0;

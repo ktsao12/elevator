@@ -2,7 +2,7 @@ Kevin Tsao
 Elevators
 
 Originally Homework #6: Concurrent Elevator Controller
-for CS361: Computer Systems Architecture
+for CS361: Computer Systems Architecture with Professor Cynthia B. Taylor
 Parallel computing, multithreading, C programming.
 
 The purpose of this assignment was to create a multithreaded program that simulates passenger and elevator travel. An M-story highrise has an N-amount of elevators, each able to serve every floor. However, each elevator only has room for one passenger. A randomized set of passengers is created, and each requests an elevator immediately at the execution of the program. Since each elevator can only serve one passenger at a time, they must travel to the correct floors, pick up their assigned passengers, travel to the correct floors, and drop them off.
